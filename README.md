@@ -4,7 +4,7 @@ An interactive spin wheel application built with React, TypeScript, and Vite. Th
 
 ## 🚀 Live Demo
 
-Check out the live demo: [https://sage-fudge-7d6536.netlify.app](https://sec-spinning-wheel.netlify.app/)
+Check out the live demo: [https://sec-spinning-wheel.netlify.app/](https://sec-spinning-wheel.netlify.app/)
 
 ## ✨ Features
 
